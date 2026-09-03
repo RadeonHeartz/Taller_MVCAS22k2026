@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Capa_Modelo_TallerMVC
 {
-    internal class Sentencias
+    public class Sentencias
     {
         Conexion con = new Conexion();
         public OdbcDataAdapter LlenarTabla(string NombreTabla)
