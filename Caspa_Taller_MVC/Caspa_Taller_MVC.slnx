@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Capa_Controlador_TallerMVC/Capa_Controlador_TallerMVC.csproj" Id="a1b1c52a-60aa-4bac-b240-b106f0fe8d82" />
   <Project Path="Capa_Modelo_TallerMVC/Capa_Modelo_TallerMVC.csproj" Id="045a6336-2395-42bb-99f0-06448d2511bf" />
+  <Project Path="Capa_Vista_TallerMVC/Capa_Vista_TallerMVC.csproj" Id="39558bbe-b4f7-480e-8f02-0cf78d2ad47d" />
 </Solution>
