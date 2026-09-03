@@ -58,6 +58,7 @@
             this.btn_Actualizar.TabIndex = 0;
             this.btn_Actualizar.Text = "Mostrar datos";
             this.btn_Actualizar.UseVisualStyleBackColor = true;
+            this.btn_Actualizar.Click += new System.EventHandler(this.btn_Actualizar_Click);
             // 
             // DgvConsultaTabla
             // 
