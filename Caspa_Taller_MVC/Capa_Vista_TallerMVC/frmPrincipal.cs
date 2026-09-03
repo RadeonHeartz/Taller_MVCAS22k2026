@@ -25,7 +25,7 @@ namespace Capa_Vista_TallerMVC
             DgvConsultaTabla.DataSource = dtVista;
         }
 
-        private void BtnConsultar_Click(object sender, EventArgs e)
+        private void btn_Actualizar_Click(object sender, EventArgs e)
         {
             actualizarDgv();
         }
